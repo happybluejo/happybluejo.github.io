@@ -1,0 +1,73 @@
+
+h2{
+    color:red;
+}
+.blueblue{
+    color:white;
+    background-color: blue;
+}
+#callme{
+    color: red;
+    background-color: yellow;
+    font-size: 70px;
+    text-align: center;
+}
+.english{
+    text-transform : uppercase;
+    text-indent: 2em;
+    letter-spacing: 2px;
+    line-height: 0.8pm;
+}
+
+#Karenname{
+    font-family: sans-serif;
+}
+*{
+    font-family: serif;
+}
+.redred{
+    color: red;
+    text-decoration: underline;
+    font-weight: 900;
+    background-color: pinks;
+}
+h1{
+    background-color: red;
+    border: 2px solid black;
+    padding:  20px;
+    border-radius: 20px;
+}
+
+heater{
+    background-color: pink;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 0px auto 20px auto;
+    width: 80%;
+}
+
+main{
+    background-color: red;
+    border:2px solid black;
+    padding: 1px 20px;
+    height:300px;
+    overflow:scroll;
+    }
+
+section{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px 0px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 19px 0px;
+}
+
+footr{
+    background-color: purple;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
